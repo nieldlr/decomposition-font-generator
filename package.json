@@ -1,0 +1,15 @@
+{
+  "name": "decompositionfontgenerator",
+  "version": "1.0.0",
+  "description": "A font file generator that produces a font of uncommon glyphs in Chinese character decomposition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Niel de la Rouviere",
+  "license": "MIT",
+  "dependencies": {
+    "opentype.js": "^0.11.0"
+  }
+}
